@@ -8,7 +8,7 @@
 
 **`Analista de Dados | Foco e estudos em banco de dados e back-end`**
 
-<p align="left">Atualmente estudante do penúltimo ano da graduação de Bacharelado em Tecnologia da informação pela UNIVESP (Universidade Virtual do Estado de São Paulo). Meu foco é estudar ferramentas e linguagens de desenvolvimento back-end e me desenvolver como profissional na área de banco de dados, focado em Python, C#, JSON e SQL (Alguns trabalhos iniciais em PHP,HTML e React embora não sejam meu foco atual).</p>
+<p align="left">Atualmente estudante do penúltimo ano da graduação em Bacharelado em Tecnologia da informação pela UNIVESP (Universidade Virtual do Estado de São Paulo). Meu foco é estudar ferramentas e linguagens de desenvolvimento back-end e me desenvolver como profissional na área de banco de dados, focado em Python, C#, JSON e SQL (Alguns trabalhos iniciais em PHP,HTML e React embora não sejam meu foco atual).</p>
 
 ###
 
